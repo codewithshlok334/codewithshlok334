@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Science student · Full-stack web development · Applied AI</b><br />
+  <b>Computer Science student · Full-stack web development · Applied AI ·Software Engineer </b><br />
   From an idea to an interface, an API, and a working project.
 </p>
 
@@ -21,9 +21,9 @@
 ```yaml
 name: Shlok Maurya
 handle: codewithshlok334
-education: B.Tech in Computer Science / IT — AKTU
+education: B.Tech in Computer Science  — AKTU
 focus: Full-stack web apps, AI integrations, and practical problem-solving
-building: SkillNex · MuleEngine · PayGuard
+building: SkillNex · MuleEngine · PayGuard 
 open_to: Internships, learning together, and project collaborations
 ```
 
