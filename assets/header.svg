@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Shlok Maurya | Developer workspace</title>
+  <desc id="desc">Full-stack web development and applied AI. Building useful ideas into working projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090F1D"/><stop offset="1" stop-color="#17132E"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22D3EE"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".23"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#A5B4FC" stroke-opacity=".055"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="380" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .cursor { animation: breathe 2s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="380" fill="url(#bg)"/>
+    <rect width="1280" height="380" fill="url(#grid)"/>
+    <ellipse cx="1070" cy="170" rx="420" ry="340" fill="url(#glow)"/>
+    <rect width="1280" height="4" fill="url(#accent)"/>
+    <path d="M0 352 C280 302 540 406 840 349 S1100 305 1280 329" fill="none" stroke="url(#accent)" stroke-width="1" opacity=".24"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="48" y="40" width="272" height="32" rx="16" fill="#14313E" stroke="#22D3EE" stroke-opacity=".24"/>
+      <circle cx="66" cy="56" r="4" fill="#34D399"/>
+      <text x="80" y="61" fill="#A5F3FC" font-size="12" font-weight="600" letter-spacing="1.6">WELCOME TO MY WORKSPACE</text>
+      <text x="46" y="152" fill="#F8FAFC" font-size="72" font-weight="750" letter-spacing="-3">Shlok Maurya<tspan fill="#22D3EE">.</tspan></text>
+      <text x="50" y="199" fill="url(#accent)" font-size="25" font-weight="600">Full-stack web development · Applied AI</text>
+      <text x="50" y="242" fill="#A5B4CF" font-size="20">Building useful ideas into working projects.</text>
+      <text x="50" y="313" fill="#64748B" font-size="14" letter-spacing="1">PYTHON / JAVA / JAVASCRIPT / TYPESCRIPT</text>
+    </g>
+    <g transform="translate(810 72)">
+      <rect width="422" height="235" rx="13" fill="#0C1221" stroke="#334155"/>
+      <path d="M13 0 H409 Q422 0 422 13 V37 H0 V13 Q0 0 13 0" fill="#172033"/>
+      <circle cx="20" cy="19" r="4.5" fill="#FB7185"/><circle cx="36" cy="19" r="4.5" fill="#FBBF24"/><circle cx="52" cy="19" r="4.5" fill="#34D399"/>
+      <text x="82" y="23" font-family="Consolas, monospace" font-size="12" fill="#94A3B8">shlok@dev: ~/workspace</text>
+      <g font-family="Consolas, monospace" font-size="17">
+        <text x="22" y="76" fill="#22D3EE">$ <tspan fill="#E2E8F0">whoami</tspan></text>
+        <text x="22" y="107" fill="#C4B5FD">@codewithshlok334</text>
+        <text x="22" y="146" fill="#22D3EE">$ <tspan fill="#E2E8F0">cat mindset.txt</tspan></text>
+        <text x="22" y="177" fill="#94A3B8">learn → build → test → improve</text>
+        <text x="22" y="215" fill="#22D3EE">$</text>
+        <rect class="cursor" x="43" y="200" width="9" height="18" rx="1" fill="#22D3EE"/>
+      </g>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="379" rx="20" fill="none" stroke="#334155" stroke-opacity=".6"/>
+  </g>
+</svg>

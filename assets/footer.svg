@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="112" viewBox="0 0 1280 112" role="img" aria-labelledby="title">
+  <title id="title">Learn. Build. Test. Improve. — Shlok Maurya</title>
+  <defs><linearGradient id="a"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect width="1280" height="112" rx="16" fill="#0D1117"/>
+  <path d="M32 1 H1248" stroke="url(#a)" stroke-opacity=".7"/>
+  <text x="640" y="53" text-anchor="middle" font-family="Consolas, monospace" font-size="23" fill="#E2E8F0">learn<tspan fill="#22D3EE">()</tspan> · build<tspan fill="#67E8F9">()</tspan> · test<tspan fill="#818CF8">()</tspan> · improve<tspan fill="#A78BFA">()</tspan></text>
+  <text x="640" y="83" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#94A3B8">SHLOK MAURYA / CODEWITHSHLOK334</text>
+</svg>
